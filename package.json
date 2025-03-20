@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Requarks/wiki-heroku.git"
+    "url": "git+https://github.com/lalrochhara/wiki-heroku.git"
   },
   "keywords": [
     "wiki.js"
@@ -17,9 +17,9 @@
   "author": "Nicolas Giard",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Requarks/wiki-heroku/issues"
+    "url": "https://github.com/lalrochhara/wiki-heroku/issues"
   },
-  "homepage": "https://github.com/Requarks/wiki-heroku#readme",
+  "homepage": "https://github.com/lalrochhara/wiki-heroku#readme",
   "engines": {
     "node": "*"
   }
